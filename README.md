@@ -17,7 +17,7 @@ Este repositório contém dois notebooks distintos:
 
 - **People Near Bike Lanes (PNB):** Este notebook apresenta um estudo sobre o indicador PNB, que mede a acessibilidade dos habitantes de um município à infraestrutura cicloviária.
 
-- **Normalized Difference Vegetation Index (NDVI):** Este notebook avalia o indicador NDVI, que mede a densidade de vegetação em uma área por meio de imagens de satélite. O foco é analisar a proximidade da vegetação nas áreas urbanas de Natal e sua relação com locais onde os habitantes estão, que possibilita o estudo das áreas das cidades que diretamente contribuem para a drenagem urbana, evitando o surgimento de ilhas de calor e absorção de parte da poluição gerada pelas atividades dos arredores. A análise foi segue a [metodologia](https://observatorio.responsivecities.com/?indicador=meio-ambiente) proposta pelo [Instituto Cidades Responsivas](https://www.responsivecities.com/).
+- **Normalized Difference Vegetation Index (NDVI):** Este notebook avalia o indicador NDVI, que mede a densidade de vegetação em uma área por meio de imagens de satélite. O foco é analisar a proximidade da vegetação nas áreas urbanas de Natal e sua relação com locais onde os habitantes estão, que possibilita o estudo das áreas das cidades que diretamente contribuem para a drenagem urbana, evitando o surgimento de ilhas de calor e absorção de parte da poluição gerada pelas atividades dos arredores. A análise segue a [metodologia](https://observatorio.responsivecities.com/?indicador=meio-ambiente) proposta pelo [Instituto Cidades Responsivas](https://www.responsivecities.com/).
 
 ## Instalação
 

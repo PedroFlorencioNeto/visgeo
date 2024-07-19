@@ -61,7 +61,7 @@ Os notebooks deste repositório são organizados conforme os tópicos apresentad
 1. **Acesso a Infraestrutura Cicloviária**
     - `01_InfraestruturaCicloviaria.ipynb`
 
-2. **Manipulação de Dados Geoespaciais com GDAL**
+2. **Análise do NDVI**
     - `02_NDVIAnalysis.ipynb`
 
 ## Bibliotecas Utilizadas

@@ -2,6 +2,8 @@
 
 Bem-vindx ao repositório do tutorial **Visualização e Processamento de Dados Geoespaciais: Uma Introdução Prática**, apresentado no evento **Python Nordeste 2024**. Aqui contém todos os notebooks, scripts e conjuntos de dados utilizados. O objetivo deste tutorial é demonstrar técnicas e ferramentas para manipulação e visualização de dados geoespaciais no Python aplicadas no contexto de avaliação de políticas públicas para redução de desigualdades socioespaciais.
 
+> Acesse [aqui](https://drive.google.com/drive/folders/1Ac-fpV8r78gc6IKm8JfORZNNZJegiKSt?usp=drive_link) a pasta de dados no *Google Drive*.
+
 ## Sumário
 
 - [Sobre](#sobre)

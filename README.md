@@ -2,7 +2,7 @@
 
 Bem-vindx ao repositório do tutorial **Visualização e Processamento de Dados Geoespaciais: Uma Introdução Prática**, apresentado no evento **Python Nordeste 2024**. Aqui contém o notebook e conjuntos de dados utilizados. O objetivo deste tutorial é demonstrar técnicas e ferramentas para manipulação e visualização de dados geoespaciais no Python aplicadas no contexto de avaliação de políticas públicas para redução de desigualdades socioespaciais.
 
-> Acesse [aqui](https://drive.google.com/drive/folders/1Ac-fpV8r78gc6IKm8JfORZNNZJegiKSt?usp=drive_link) a pasta de dados no *Google Drive*.
+> Acesse [aqui](https://drive.google.com/drive/folders/1Ac-fpV8r78gc6IKm8JfORZNNZJegiKSt?usp=drive_link) a pasta de dados no *Google Drive*. Todos os datasets contidos foram extraídos de portais de dados abertos.
 
 ## Sumário
 
@@ -19,40 +19,11 @@ Este repositório contém o notebook descrito:
 
 - **InfraestruturaCicloviaria:** Este notebook apresenta um estudo sobre o indicador PNB, que mede a acessibilidade dos habitantes do município de Natal à infraestrutura cicloviária.
 
-## Instalação
-
-### Pré-requisitos
+## Pré-requisitos
 
 - Python 3.7 ou superior
-- Jupyter Notebook ou Google Colab
+- Jupyter Notebook ou conta no Google Colab
 
-### Passos para Instalação
-
-1. Clone o repositório:
-
-    ```bash
-    git clone https://github.com/PedroFlorencioNeto/visgeo.git
-    cd visgeo
-    ```
-
-2. Crie e ative um ambiente virtual:
-
-    ```bash
-    python -m venv env
-    source env/bin/activate  # Para Windows, use `env\Scripts\activate`
-    ```
-
-3. Instale as dependências:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4. Inicie o Jupyter Notebook:
-
-    ```bash
-    jupyter notebook
-    ```
 
 ## Bibliotecas Utilizadas
 
@@ -65,8 +36,12 @@ Este projeto utiliza diversas bibliotecas populares para processamento e visuali
 - [Matplotlib](https://matplotlib.org/)
 - [Contextily](https://contextily.readthedocs.io/en/latest/)
 
-## Referências Bibliográficas:
+## Referências e Leituras Recomendadas:
+- [Pereira, Rafael H. M. & Herszenhut, Daniel. (2023) Introdução à acessibilidade urbana: um guia prático em R. Ipea - Instituto de Pesquisa Econômica Aplicada.](https://ipeagit.github.io/intro_access_book/pt/)
 
+- [Sensibilidade de variáveis sociodemográficas na mobilidade urbana.](https://itdpbrasil.org/sensibilidade-de-variaveis-sociodemograficas-na-mobilidade-urbana/)
+
+- [Geographic Data Science with Python.](https://geographicdata.science/book/intro.html)
 
 ## Como Contribuir
 
@@ -94,4 +69,3 @@ Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE
 ---
 
 Esperamos que você aproveite este projeto e que ele seja útil para aprender mais sobre processamento e visualização de dados geoespaciais com Python! 🐍📊🚲
-

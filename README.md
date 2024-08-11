@@ -1,6 +1,6 @@
 # Visualização e Processamento de Dados Geoespaciais
 
-Bem-vindx ao repositório do tutorial **Visualização e Processamento de Dados Geoespaciais: Uma Introdução Prática**, apresentado no evento **Python Nordeste 2024**. Aqui contém todos os notebooks, scripts e conjuntos de dados utilizados. O objetivo deste tutorial é demonstrar técnicas e ferramentas para manipulação e visualização de dados geoespaciais no Python aplicadas no contexto de avaliação de políticas públicas para redução de desigualdades socioespaciais.
+Bem-vindx ao repositório do tutorial **Visualização e Processamento de Dados Geoespaciais: Uma Introdução Prática**, apresentado no evento **Python Nordeste 2024**. Aqui contém o notebook e conjuntos de dados utilizados. O objetivo deste tutorial é demonstrar técnicas e ferramentas para manipulação e visualização de dados geoespaciais no Python aplicadas no contexto de avaliação de políticas públicas para redução de desigualdades socioespaciais.
 
 > Acesse [aqui](https://drive.google.com/drive/folders/1Ac-fpV8r78gc6IKm8JfORZNNZJegiKSt?usp=drive_link) a pasta de dados no *Google Drive*.
 
@@ -15,11 +15,9 @@ Bem-vindx ao repositório do tutorial **Visualização e Processamento de Dados 
 
 ## Sobre
 
-Este repositório contém dois notebooks distintos:
+Este repositório contém o notebook descrito:
 
-- **People Near Bike Lanes (PNB):** Este notebook apresenta um estudo sobre o indicador PNB, que mede a acessibilidade dos habitantes de um município à infraestrutura cicloviária.
-
-- **Normalized Difference Vegetation Index (NDVI):** Este notebook avalia o indicador NDVI, que mede a densidade de vegetação em uma área por meio de imagens de satélite. O foco é analisar a proximidade da vegetação nas áreas urbanas de Natal e sua relação com locais onde os habitantes estão, que possibilita o estudo das áreas das cidades que diretamente contribuem para a drenagem urbana, evitando o surgimento de ilhas de calor e absorção de parte da poluição gerada pelas atividades dos arredores. A análise segue a [metodologia](https://observatorio.responsivecities.com/?indicador=meio-ambiente) proposta pelo [Instituto Cidades Responsivas](https://www.responsivecities.com/).
+- **InfraestruturaCicloviaria:** Este notebook apresenta um estudo sobre o indicador PNB, que mede a acessibilidade dos habitantes do município de Natal à infraestrutura cicloviária.
 
 ## Instalação
 
@@ -56,28 +54,19 @@ Este repositório contém dois notebooks distintos:
     jupyter notebook
     ```
 
-## Notebooks
-
-Os notebooks deste repositório são organizados conforme os tópicos apresentados no evento:
-
-1. **Acesso a Infraestrutura Cicloviária**
-    - `01_InfraestruturaCicloviaria.ipynb`
-
-2. **Análise do NDVI**
-    - `02_NDVIAnalysis.ipynb`
-
 ## Bibliotecas Utilizadas
 
 Este projeto utiliza diversas bibliotecas populares para processamento e visualização de dados geoespaciais em Python:
 
 - [Pandas](https://pandas.pydata.org/)
 - [Geopandas](https://geopandas.org/)
-- [H3](https://h3geo.org/)
-- [Plotly](https://plotly.com/)
 - [Folium](https://python-visualization.github.io/folium/)
 - [Shapely](https://shapely.readthedocs.io/)
 - [Matplotlib](https://matplotlib.org/)
 - [Contextily](https://contextily.readthedocs.io/en/latest/)
+
+## Referências Bibliográficas:
+
 
 ## Como Contribuir
 
@@ -104,5 +93,5 @@ Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE
 
 ---
 
-Esperamos que você aproveite este projeto e que ele seja útil para aprender mais sobre processamento e visualização de dados geoespaciais com Python!
+Esperamos que você aproveite este projeto e que ele seja útil para aprender mais sobre processamento e visualização de dados geoespaciais com Python! 🐍📊🚲
 

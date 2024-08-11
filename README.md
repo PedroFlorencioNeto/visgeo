@@ -7,9 +7,9 @@ Bem-vindx ao repositório do tutorial **Visualização e Processamento de Dados 
 ## Sumário
 
 - [Sobre](#sobre)
-- [Instalação](#instalação)
-- [Notebooks](#notebooks)
+- [Pré-requisitos](#pré-requisitos)
 - [Bibliotecas Utilizadas](#bibliotecas-utilizadas)
+- [Leituras Recomendadas](#leituras-recomendadas)
 - [Como Contribuir](#como-contribuir)
 - [Licença](#licença)
 
@@ -17,7 +17,7 @@ Bem-vindx ao repositório do tutorial **Visualização e Processamento de Dados 
 
 Este repositório contém o notebook descrito:
 
-- **InfraestruturaCicloviaria:** Este notebook apresenta um estudo sobre o indicador PNB, que mede a acessibilidade dos habitantes do município de Natal à infraestrutura cicloviária.
+- **[InfraestruturaCicloviariaPYNE](InfraestruturaCicloviariaPYNE.ipynb):** Este notebook apresenta um estudo sobre o indicador PNB, que mede a acessibilidade dos habitantes do município de Natal à infraestrutura cicloviária.
 
 ## Pré-requisitos
 
@@ -36,7 +36,7 @@ Este projeto utiliza diversas bibliotecas populares para processamento e visuali
 - [Matplotlib](https://matplotlib.org/)
 - [Contextily](https://contextily.readthedocs.io/en/latest/)
 
-## Referências e Leituras Recomendadas:
+## Leituras Recomendadas
 - [Pereira, Rafael H. M. & Herszenhut, Daniel. (2023) Introdução à acessibilidade urbana: um guia prático em R. Ipea - Instituto de Pesquisa Econômica Aplicada.](https://ipeagit.github.io/intro_access_book/pt/)
 
 - [Sensibilidade de variáveis sociodemográficas na mobilidade urbana.](https://itdpbrasil.org/sensibilidade-de-variaveis-sociodemograficas-na-mobilidade-urbana/)
